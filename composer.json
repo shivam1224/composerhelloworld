@@ -7,7 +7,7 @@
             "email": "cvam@cool.com"
         }
     ],
-    "minimum-stability": "@dev",
+    "minimum-stability": "RC",
     "require": {
         "php": ">=5.6.0"
     },
